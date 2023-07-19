@@ -16,9 +16,9 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/goitacademy/parcel-project-template/issues"
-  }, 
-
-"dependencies": {
+  },
+  "dependencies": {
+    "lodash.throttle": "^4.1.1",
     "modern-normalize": "^1.1.0"
   },
   "devDependencies": {
@@ -28,6 +28,4 @@
     "posthtml-include": "^1.7.4"
   },
   "browserslist": "> 0.5%, last 2 versions, not dead"
-  
- 
 }
