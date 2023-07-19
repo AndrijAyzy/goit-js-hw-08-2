@@ -16,8 +16,11 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/goitacademy/parcel-project-template/issues"
-  },
+  }, 
   "dependencies": {
+  "simplelightbox": "^2.1.0"
+},
+"dependencies": {
     "modern-normalize": "^1.1.0"
   },
   "devDependencies": {
@@ -27,4 +30,6 @@
     "posthtml-include": "^1.7.4"
   },
   "browserslist": "> 0.5%, last 2 versions, not dead"
+  
+ 
 }
